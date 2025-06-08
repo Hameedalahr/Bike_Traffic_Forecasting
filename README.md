@@ -78,22 +78,22 @@ The project uses three datasets:
 
 ## 📸 Results
 
-### 📈 Actual vs Predicted (Daily)
+### rides_day.csv
 
-![Actual vs Predicted - Daily](results/actual_vs_predicted_daily.png)
+![rides_day.csv](https://github.com/Hameedalahr/Bike_Traffic_Forecasting/blob/main/rides_day.csv%20result.png?raw=true)
 
-### 💡 Feature Importance
+### rides_15min.csv
 
-![Feature Importance](results/feature_importance.png)
+![rides_15min.csv](https://github.com/Hameedalahr/Bike_Traffic_Forecasting/blob/main/ride_15min.csv%20result.png?raw=true)
 
-> 🔁 *(Add your result images to a `results/` folder and update the paths if different)*
+
 
 ---
 
 ## 📚 Future Improvements
 
 - Use deep learning (e.g., LSTM) for improved time-series forecasting
-- Integrate real-time weather API for dynamic updates
+- Aggregating rides_15min.csv with existing datasets
 - Deploy as a web app using Streamlit or Flask
 
 ---
@@ -101,10 +101,10 @@ The project uses three datasets:
 ## 🙋‍♂️ Author
 
 **Abdul Hameed Syed**  
-Data Science Enthusiast | Intern  
+Data Science Enthusiast 
 
----
+## For
 
-## 📝 License
+**LPDG India**
 
-This project is for educational use only.
+
